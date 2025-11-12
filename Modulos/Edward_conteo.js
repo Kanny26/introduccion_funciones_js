@@ -1,4 +1,4 @@
-export const Conteo_numero = (palabra) =>
+export const Conteo_numero = () =>
     {
         
 // Pedir palabra al usuario
